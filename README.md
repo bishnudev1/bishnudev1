@@ -40,10 +40,6 @@
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Bishnudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26740%20lines%20of%20code-blue)
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -56,9 +52,12 @@ PyCharm                  1 min               ░░░░░░░░░░░�
 Windows                  10 hrs 8 mins       █████████████████████████   100.0%
 Zorin                    1  hrs 3 mins       █████████████████████████   10.0%
 ```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26740%20lines%20of%20code-blue)
+
 <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Bishnudev's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev" />
-
 
 [website]: https://bishnudev.ml/
 [youtube]: https://www.youtube.com/channel/UC1hPNuUfzZUr4Fwm27IMk4w
