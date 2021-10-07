@@ -1,6 +1,6 @@
 ### Hello World, I'm Bishnudev  👋
 
- <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/logo.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Student, Learner, Developer, Creator, and Mentor!!
