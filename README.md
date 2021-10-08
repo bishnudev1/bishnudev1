@@ -35,6 +35,9 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
 <br />
+<br />
+<br />
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
 
@@ -45,30 +48,6 @@
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Bishnudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-🔥 Editors: 
-VS Code                  10 hrs 6 mins       █████████████████████████   99.71% 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.0%
-Zorin                    1  hrs 3 mins       █████████████████████████   10.0%
-```
-
 
 
 [website]: https://bishnudev.ml/
