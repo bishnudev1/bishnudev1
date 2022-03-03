@@ -43,12 +43,13 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26740%20lines%20of%20code-blue)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Bishnudev's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev" />
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Bishnudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
-
 
 [website]: https://bishnudev.ml/
 [youtube]: https://www.youtube.com/channel/UC1hPNuUfzZUr4Fwm27IMk4w
