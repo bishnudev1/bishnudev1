@@ -43,6 +43,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26740%20lines%20of%20code-blue)
 
+### Trophics I earned:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <summary>:zap: Most Used Languages</summary>
