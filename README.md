@@ -2,6 +2,12 @@
 
  <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/logo.gif?raw=true" width="500" height="320" />
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx bishnudev
+```
+**👆 This command line tool can be found at [npx bishnudev](https://github.com/bishnudev1/NPX-Profile-Card)**
 
 ## I'm a Student, Learner, Developer, Creator, and Mentor!!
 
@@ -44,9 +50,22 @@
 <br />
 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-251-pink)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26740%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+
+
+**I'm a Noon 🦉**
+
+```text
+🌞 Morning    23 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   39.6% 
+🌆 Noon       31 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
+🌃 Evening    17 commits    ██████░░░░░░░░░░░░░░░░░░░   26.71% 
+🌙 Night      06 commits    ██████████░░░░░░░░░░░░░░░   3.09%
+
+```
 
 ### Trophics I earned:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
@@ -63,3 +82,13 @@
 [linkedin]: https://www.linkedin.com/in/bishnudev-khutia-a14942207/
 [twitter]: https://twitter.com/Excel28605690
 [facebook]: https://www.facebook.com/bishnudev.khutia.90/
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
+
+<p align="center"><a href="https://www.buymeacoffee.com/bishnudevk8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
