@@ -47,7 +47,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Bishnudev's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev" />
+<img align="left" alt="Bishnudev's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev1" />
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Bishnudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
