@@ -9,11 +9,11 @@ npx bishnudev
 ```
 **👆 This command line tool can be found at [npx bishnudev](https://github.com/bishnudev1/NPX-Profile-Card)**
 
-## I'm a Student, Learner, Developer, Creator, and Mentor!!
+### I'm a Student, Learner, Developer, Creator, and Mentor!!
 
 - ✍ You can find my projects here
 - 🔭 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 College of Engineering & Management, Kolaghat, 2020-24
-- 🌱 I’m currently learning Backend Framewark  
+- 🌱 I’m currently learning Artificial Intelligence  
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Excel
@@ -44,20 +44,28 @@ npx bishnudev
 [<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][youtube]
 [<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][youtube]
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][youtube]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][youtube]
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][youtube]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][youtube]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 
 <br />
 <br />
 <br />
 
 
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1624%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 
-**I'm a Noon 🦉**
+**I'm a night 🦉**
 
 ```text
 🌞 Morning    23 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   39.6% 
