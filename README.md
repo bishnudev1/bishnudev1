@@ -1,6 +1,6 @@
 ### Hello World, I'm Bishnudev  👋
 
- <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/logo.gif?raw=true" width="250" height="160" />
+ <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/logo.gif?raw=true" width="500" height="320" />
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -40,8 +40,6 @@ npx bishnudev
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][youtube]
-
-
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
 [<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][youtube]
 [<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
@@ -58,11 +56,6 @@ npx bishnudev
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1624%20hrs%206%20mins-blue)
 
@@ -82,13 +75,14 @@ npx bishnudev
 ```
 
 ### Trophics I earned:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
 
 <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="My Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev1" />
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&hide_border=true" />
 
 [website]: https://bishnudev.ml/
 [youtube]: https://www.youtube.com/channel/UC1hPNuUfzZUr4Fwm27IMk4w
@@ -97,8 +91,19 @@ npx bishnudev
 [twitter]: https://twitter.com/Excel28605690
 [facebook]: https://www.facebook.com/bishnudev.khutia.90/
 
-<br></br>
-<br></br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
 
