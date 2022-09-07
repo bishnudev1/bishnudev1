@@ -1,15 +1,14 @@
 ### Hello World, I'm Bishnudev  👋
 
- <img align="right" alt="GIF" src="https://github.com/bishnudev1/bishnudev1/blob/main/logo.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="500" height="300" />
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx bishnudev
 ```
-**👆 This command line tool can be found at [npx bishnudev](https://github.com/bishnudev1/NPX-Profile-Card)**
 
-### I'm a Student, Learner, Developer, Creator, and Mentor!!
+### I'm a Student, Learner, Developer !!
 
 - ✍ You can find my projects here
 - 🔭 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 College of Engineering & Management, Kolaghat, 2020-24
@@ -34,6 +33,7 @@ npx bishnudev
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -57,7 +57,7 @@ npx bishnudev
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1624%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -75,7 +75,7 @@ npx bishnudev
 ### Trophics I earned:
 [![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bishnudev1&&show_icons=true&theme=radical&line_height=27&v=5" alt="Bishnudev's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bishnudev1&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
 
 <a href="https://github.com/bishnudev1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev1&theme=radical&hide=glsl,python" />
