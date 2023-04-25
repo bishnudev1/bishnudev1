@@ -1,96 +1,102 @@
-### Hello World, I'm Bishnudev  👋
+### Hi there 👋
+### I am Bishnudev Khutia
+<img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
 
- <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="500" height="300" />
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx bishnudev
-```
-
-### I'm a Student, Learner, Developer !!
-
-- ✍ You can find my projects here
-- 🔭 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 College of Engineering & Management, Kolaghat, 2020-24
-- 🌱 I’m currently learning Artificial Intelligence  
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: Excel
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Bengali)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bishnudev1&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
+  
+  ![GitHub User's stars](https://img.shields.io/github/stars/bishnudev1?style=social) 
+  [![GitHub followers](https://img.shields.io/github/followers/bishnudev1?style=social)](https://github.com/bishnudev1/)
+</p>
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="holisitc_developer | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="holisitc_developer | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+## Connect with me here:  
+[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/bishnudev_ig/)
+[![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishnudevkhutia/)
+### *Few things about me*
 
-</br>
+-  ♠️ I'm Jack of All Trades ,master of None.
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who loves building Frontend.
+- 👯 I'm currently trying to go into DevOps methology !
+- 🤔 I’m still trying to finish my education! I love intering/part-timing!
+- 😮 Pronouns **He/Him**
 
-### Languages and Tools I know:
+### Lovin' :heart: these since forever :
+---
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+### Frameworks that I work with :zap: :
+---
+[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next)](https://nextjs.org/)
+[![Node](https://img.shields.io/badge/Node-000000?&style=for-the-badge&logo=node)](https://nodejs.org/en)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?&style=for-the-badge&logo=Flutter)](https://flutter.dev/)
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel)](https://vercel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
+[![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=Chakra)](https://chakra-ui.com/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
+[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS)](https://aws.amazon.com/)
+[![Firebase](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://firebase.google.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1624%20hrs%206%20mins-blue)
+### Things about me 🔍 :
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
 
-
-### I'm a night 🦉
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    23 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   39.6% 
-🌆 Noon       06 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌃 Evening    17 commits    ██████░░░░░░░░░░░░░░░░░░░   26.71% 
-🌙 Night      31 commits    ██████████░░░░░░░░░░░░░░░   3.09%
+🌞 Morning                1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌆 Daytime                2834 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                2524 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌙 Night                  2711 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+```
+📅 **I'm Most Productive on Friday** 
 
+```text
+Monday                   1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  1750 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Wednesday                1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 1252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   2261 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Saturday                 667 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Sunday                   1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 
-### Trophics I earned:
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+VS Code                  15 hrs 8 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 8 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/04/2023 18:40:39 UTC
+<!--END_SECTION:waka-->
+
+### My stats 🌠 :
 [![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Streaks](https://streak-stats.demolab.com/?user=bishnudev1&theme=gotham)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bishnudev1&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
-
-<a href="https://github.com/bishnudev1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev1&theme=radical&hide=glsl,python" />
-</a>
-
-
-[website]: https://bishnudev.ml/
-[youtube]: https://www.youtube.com/channel/UC1hPNuUfzZUr4Fwm27IMk4w
-[instagram]: https://www.instagram.com/bishnudev_ig/
-[linkedin]: https://www.linkedin.com/in/bishnudev-khutia-a14942207/
-[twitter]: https://twitter.com/Excel28605690
-[facebook]: https://www.facebook.com/bishnudev.khutia.90/
-
+---
 
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
 
