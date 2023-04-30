@@ -28,22 +28,28 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
-### Frameworks that I work with :zap: :
+### Frameworks that I work/contribute most :
 ---
-[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next)](https://nextjs.org/)
-[![Node](https://img.shields.io/badge/Node-000000?&style=for-the-badge&logo=node)](https://nodejs.org/en)
+[![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
+[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=orange)](https://expressjs.com/)
+
+### Techs that I know bit :zap: :
+---
+[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?&style=for-the-badge&logo=Flutter)](https://flutter.dev/)
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel)](https://vercel.com/)
+[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=nextjs)](https://nextjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
-[![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=Chakra)](https://chakra-ui.com/)
+[![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
 [![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS)](https://aws.amazon.com/)
-[![Firebase](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
