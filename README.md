@@ -41,8 +41,10 @@
 
 ### Techs that I know bit :zap: :
 ---
-[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next)](https://nextjs.org/)
+[![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
