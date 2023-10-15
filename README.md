@@ -16,7 +16,7 @@
 ### *Few things about me*
 
 -  ♠️ I'm Jack of All Trades ,master of None.
-- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who loves building Frontend.
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who loves writing Backend.
 - 👯 I'm currently trying to go into DevOps methology !
 - 🤔 I’m still trying to finish my education! I love intering/part-timing!
 - 😮 Pronouns **He/Him**
