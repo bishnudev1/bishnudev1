@@ -16,8 +16,8 @@
 ### *Few things about me*
 
 -  ♠️ I'm Jack of All Trades ,master of None.
-- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who loves writing Backend.
-- 👯 I'm currently trying to go into DevOps methology !
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack DevOps Engineer who loves writing Backend.
+- 👯 I'm currently trying to go into AI domain !
 - 🤔 I’m still trying to finish my education! I love intering/part-timing!
 - 😮 Pronouns **He/Him**
 
@@ -32,24 +32,31 @@
 ---
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
+[![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
 [![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
 [![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=orange)](https://expressjs.com/)
 [![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-000000?&style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel)](https://vercel.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
+[![AWS](https://img.shields.io/badge/AWS-000000?&style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-000000?&style=for-the-badge&logo=netlify)](https://app.netlify.com/)
+[![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
 
 ### Techs that I know bit :zap: :
 ---
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next)](https://nextjs.org/)
+[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![Github](https://img.shields.io/badge/GitHubActions-100000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/)
+[![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
