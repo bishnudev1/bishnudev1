@@ -42,6 +42,7 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 [![AWS](https://img.shields.io/badge/AWS-000000?&style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?&style=for-the-badge&logo=netlify)](https://app.netlify.com/)
+[![JSON](https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json)](https://www.json.org/)
 [![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
 
 ### Techs that I know bit :zap: :
@@ -56,6 +57,7 @@
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![Github](https://img.shields.io/badge/GitHubActions-100000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/)
 [![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
 ### Things about me 🔍 :
