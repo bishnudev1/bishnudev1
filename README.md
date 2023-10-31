@@ -59,6 +59,7 @@
 [![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Go](https://img.shields.io/badge/Go-100000?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
