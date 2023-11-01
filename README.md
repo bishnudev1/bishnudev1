@@ -45,6 +45,7 @@
 [![JSON](https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json)](https://www.json.org/)
 [![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
 [![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
 
 ### Techs that I know bit :zap: :
 ---
@@ -62,6 +63,7 @@
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Go](https://img.shields.io/badge/Go-100000?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
