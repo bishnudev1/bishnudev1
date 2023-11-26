@@ -65,6 +65,7 @@
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
+[![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
