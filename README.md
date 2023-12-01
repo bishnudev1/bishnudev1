@@ -47,10 +47,12 @@
 [![Netlify](https://img.shields.io/badge/Netlify-000000?&style=for-the-badge&logo=netlify)](https://app.netlify.com/)
 [![Github](https://img.shields.io/badge/GitHubActions-100000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/)
 [![JSON](https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json)](https://www.json.org/)
+[![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
 [![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
 [![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
+[![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
 
 ### Techs that I know bit :zap: :
 ---
@@ -65,7 +67,6 @@
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
-[![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
