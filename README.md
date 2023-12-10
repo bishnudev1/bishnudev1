@@ -60,6 +60,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
