@@ -11,7 +11,7 @@
 
 
 ## Connect with me here:  
-[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/bishnudev_ig/)
+[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/__weirdophile20/)
 [![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishnudevkhutia/)
 ### *Few things about me*
 
@@ -31,6 +31,11 @@
 
 ### Frameworks that I work most :
 ---
+[![Scikit](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=ScikitLearn&logoColor=orange)](https://reactjs.org/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange)](https://reactjs.org/)
+[![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://reactjs.org/)
+[![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://reactjs.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://reactjs.org/)
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
 [![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
