@@ -31,11 +31,13 @@
 
 ### Frameworks that I work most :
 ---
-[![Scikit](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=ScikitLearn&logoColor=orange)](https://reactjs.org/)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange)](https://reactjs.org/)
-[![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://reactjs.org/)
-[![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://reactjs.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://reactjs.org/)
+[![Scikit](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=ScikitLearn&logoColor=orange)](https://scikit-learn.org/stable/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange)](https://www.tensorflow.org)
+[![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://ai.google.dev)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://streamlit.io)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
+[![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
 [![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
