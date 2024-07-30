@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 ### I am Bishnudev Khutia
 <img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
 
@@ -17,8 +17,8 @@
 
 -  ♠️ I'm Jack of All Trades ,master of None.
 - 🧑🏾‍💻 I don't love tags but you can call me a FullStack DevOps Engineer who loves writing Backend.
-- 👯 I'm currently trying to go into AI domain !
-- 🤔 I’m still trying to finish my education! I love intering/part-timing!
+- 👯 I'm currently researching on Transformers & learning Generative AI!
+- 🤔 I’m still trying to finish my education in Master of Tech. in CSE & Data Science! I love intering/part-timing!
 - 😮 Pronouns **He/Him**
 
 ### Lovin' :heart: these since forever :
@@ -36,6 +36,7 @@
 [![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://openai.com)
 [![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://ai.google.dev)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://streamlit.io)
+[![Langchain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=blue)](https://www.langchain.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
 [![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
@@ -45,6 +46,7 @@
 [![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Redis](https://img.shields.io/badge/Redis-323330?style=for-the-badge&logo=redis&logoColor=red)](https://redis.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=orange)](https://expressjs.com/)
+[![MetaAPI](https://img.shields.io/badge/Meta-323330?style=for-the-badge&logo=meta&logoColor=blue)](https://developers.facebook.com)
 [![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-000000?&style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Go](https://img.shields.io/badge/Go-100000?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
@@ -61,15 +63,15 @@
 [![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
 [![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
 [![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
 
 ### Techs that I know bit :zap: :
 ---
-[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
-[![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust)]([https://www.canva.com](https://www.rust-lang.org)/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
