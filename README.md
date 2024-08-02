@@ -40,6 +40,7 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
 [![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
+[![Clerk](https://img.shields.io/badge/Clerk-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://clerk.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
 [![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
 [![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
@@ -65,6 +66,10 @@
 [![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
+[![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 
 ### Techs that I know bit :zap: :
 ---
@@ -74,12 +79,13 @@
 [![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust)]([https://www.canva.com](https://www.rust-lang.org)/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
+[![Rocket](https://img.shields.io/badge/Rocket-000000?&style=for-the-badge&logo=Rocket)](https://rocket.rs)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
-[![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-100000?style=for-the-badge&logo=FAISS&logoColor=white)](https://faiss.ai)
+[![ChromaDB](https://img.shields.io/badge/Chroma-100000?style=for-the-badge&logo=chroma&logoColor=white)](https://www.trychroma.com)
+[![After Effects](https://img.shields.io/badge/adobe-100000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/in/products/aftereffects/campaign/pricing.html?sdid=L3XTTPNV&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB:G:s&s_kwcid=AL!3085!3!645660846389!e!!g!!adobe%20after%20effects!221167268!17525486588&gad_source=1&gbraid=0AAAAADoVWmQN5g3dFdygeu3WsaUjtJYTl&gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB)
+[![Microsoft Azure](https://img.shields.io/badge/azure-100000?style=for-the-badge&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-in)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
