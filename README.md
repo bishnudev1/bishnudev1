@@ -1,6 +1,6 @@
 ### Hello World! 👋
 ### I am Bishnudev Khutia
-<img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
+<img align="right" height="380px" width="380px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bishnudev1&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
@@ -69,7 +69,7 @@
 [![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/)
 
 ### Techs that I know bit :zap: :
 ---
@@ -82,10 +82,9 @@
 [![Rocket](https://img.shields.io/badge/Rocket-000000?&style=for-the-badge&logo=Rocket)](https://rocket.rs)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
-[![FAISS](https://img.shields.io/badge/FAISS-100000?style=for-the-badge&logo=FAISS&logoColor=white)](https://faiss.ai)
-[![ChromaDB](https://img.shields.io/badge/Chroma-100000?style=for-the-badge&logo=chroma&logoColor=white)](https://www.trychroma.com)
+[![ChromaDB](https://img.shields.io/badge/Chromadb-100000?style=for-the-badge&logo=vector&logoColor=white)](https://www.trychroma.com)
 [![After Effects](https://img.shields.io/badge/adobe-100000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/in/products/aftereffects/campaign/pricing.html?sdid=L3XTTPNV&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB:G:s&s_kwcid=AL!3085!3!645660846389!e!!g!!adobe%20after%20effects!221167268!17525486588&gad_source=1&gbraid=0AAAAADoVWmQN5g3dFdygeu3WsaUjtJYTl&gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB)
-[![Microsoft Azure](https://img.shields.io/badge/azure-100000?style=for-the-badge&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-in)
+[![Microsoft Azure](https://img.shields.io/badge/azure-100000?style=for-the-badge&logo=msoffice&logoColor=white)](https://azure.microsoft.com/en-in)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
@@ -135,9 +134,29 @@ Linux                    5 hrs 28 mins       █████████   30.00
  Last Updated on 24/04/2023 18:40:39 UTC
 <!--END_SECTION:waka-->
 
-### My stats 🌠 :
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![Streaks](https://streak-stats.demolab.com/?user=bishnudev1&theme=gotham)
+
+### Stats 🔥
+---
+
+<details>
+<summary><b>GitHub</b></summary>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnudev1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bishnudev's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnudev1&layout=compact&theme=radical&hide_border=true" /></a> 
+</details>
+
+<details>
+  <summary><b>GitHub Streak</b></summary>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnudev1&theme=radical&hide_border=true" />
+  </a>
+</details>
+
+<details>
+  <summary><b>GitHub Activity Graph</b></summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bishnudev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bishnudev1&bg_color=1F222E&color=BE91F2&line=638fda&point=35aea1&hide_border=true" /></a>
+</details>
+
 
 ---
 
