@@ -40,6 +40,7 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
 [![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
 [![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
+[![Django](https://img.shields.io/badge/Django-FFD43B?style=for-the-badge&logo=django&logoColor=blue)](https://www.djangoproject.com)
 [![Clerk](https://img.shields.io/badge/Clerk-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://clerk.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
 [![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
