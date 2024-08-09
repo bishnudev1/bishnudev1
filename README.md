@@ -25,7 +25,7 @@
 ---
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=red)](https://www.rust-lang.org)
 [![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Go](https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
