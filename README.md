@@ -63,6 +63,7 @@
 [![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
+[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
 [![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
 [![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
@@ -77,7 +78,6 @@
 ---
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust)]([https://www.canva.com](https://www.rust-lang.org)/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
@@ -85,11 +85,8 @@
 [![Springboot](https://img.shields.io/badge/Springboot-000000?&style=for-the-badge&logo=Springboot)](https://rocket.rs)
 [![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![Php](https://img.shields.io/badge/pHp-430098?&style=for-the-badge&logo=pHp)](https://www.heroku.com/)
-[![Kafka](https://img.shields.io/badge/Kafka-430098?&style=for-the-badge&logo=kafka)](https://www.heroku.com/)
 [![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
 [![ChromaDB](https://img.shields.io/badge/Chromadb-100000?style=for-the-badge&logo=vector&logoColor=white)](https://www.trychroma.com)
-[![After Effects](https://img.shields.io/badge/adobe-100000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/in/products/aftereffects/campaign/pricing.html?sdid=L3XTTPNV&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB:G:s&s_kwcid=AL!3085!3!645660846389!e!!g!!adobe%20after%20effects!221167268!17525486588&gad_source=1&gbraid=0AAAAADoVWmQN5g3dFdygeu3WsaUjtJYTl&gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqFDIuKpo4YvNSFqqas3jFAyDrWNeBrxyT0zRjcWLfKGrpmMo7jZj4EaAiQfEALw_wcB)
-[![Microsoft Azure](https://img.shields.io/badge/azure-100000?style=for-the-badge&logo=msoffice&logoColor=white)](https://azure.microsoft.com/en-in)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
